@@ -1,0 +1,71 @@
+# AetherNet – Open Access Stewardship Protocol (OASP) – September 2025
+
+**Title**: AetherNet – Pre-Cyclogenesis Disruption Architecture  
+**Version**: 1.1  
+**Date**: 2025-09-13  
+**Licenses**: Apache License 2.0 (code) + CC0 (docs & data)  
+
+---
+
+## 1. Statement of Intent
+
+This repository contains a **conceptual design** of the AetherNet architecture.  
+It is released **solely for modeling, testing, and scientific evaluation**.  
+It is **not** a field-ready deployment plan.  
+
+The release exists to secure public ownership of the idea, prevent future enclosure or patenting, and invite rigorous global scrutiny.  
+
+No provisional patent has been filed; instead, this public timestamp constitutes **permanent prior art**.  
+
+---
+
+## 2. Covered Elements
+
+Explicitly open and unpatentable:  
+- Drone swarm coordination logic (conceptual)  
+- Pre-cyclogenesis atmospheric targeting strategies  
+- Net-and-propeller turbulence disruption concepts  
+- Real-time feedback learning models (illustrative)  
+- Data sharing formats and open protocols  
+- All diagrams, assumptions, and modeling updates  
+
+Any embodiment that achieves pre-cyclogenesis airflow disruption is considered part of this open release.  
+
+---
+
+## 3. Governance Principle
+
+There is no central steward.  
+All contributors must:  
+- Retain Apache 2.0 + CC0 licensing  
+- Avoid enclosure of derivatives  
+- Disclose modifications transparently  
+
+---
+
+## 4. Post-Release Protections
+
+- All data gathered or simulated under AetherNet must remain open.  
+- All trained models, policies, and decision logic must remain redistributable.  
+- The open status of this repository is permanent.  
+
+---
+
+## 5. Irrevocability Clause
+
+This release is **permanent and irrevocable**.  
+No contributor, institution, or entity may reverse this open status or assert proprietary rights.  
+
+---
+
+
+## 6. Disengagement Statement
+
+The authors disengage after this release.  
+Further evaluation, modeling, and governance discussion are fully in the hands of the global scientific community.  
+
+
+---
+
+**Signed**: AetherNet Initial Author(s)  
+Released publicly on GitHub under OASP v1.1

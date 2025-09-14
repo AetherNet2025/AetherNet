@@ -1,0 +1,13 @@
+CC0 1.0 Universal (CC0 1.0)
+
+Public Domain Dedication
+
+The authors of this document hereby waive all copyright and related or neighboring rights to this work. 
+You may copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
+
+This dedication applies to all documentation, diagrams, papers, written content, and data in this repository.
+
+This release itself constitutes prior art. No patent rights are asserted or will be claimed. 
+AetherNet is permanently unowned, unpatentable, and open for all.
+
+Full CC0 legal code: https://creativecommons.org/publicdomain/zero/1.0/

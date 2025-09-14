@@ -1,0 +1,57 @@
+Authors disengage after public release; see README/OASP
+
+{
+  "drone_id": "DR-1742",
+  "timestamp": "2025-09-03T12:30:45Z",
+  "coordinates": {
+    "latitude": 16.44,
+    "longitude": -61.28
+  },
+  "altitude": 725,
+  "battery": 76,
+  "role": "mesh_operator",
+  "sensor_data": {
+    "CAPE": 2210.5,
+    "vorticity": 0.00084,
+    "humidity": 0.91,
+    "wind_speed": 8.2,
+    "wind_direction": 244,
+    "vertical_velocity": 1.62,
+    "temperature": 29.4,
+    "dew_point": 25.7,
+    "anomaly_score": 0.73,
+    "wind_shear": 13.2
+  },
+  "status": {
+    "cluster_id": "MC-07A",
+    "net_mode": "vortex_flap",
+    "is_mesh_lead": true,
+    "connection_quality": "good",
+    "upload_ack": true
+  },
+  "geo_zone": {
+    "zone_id": "Z-9345",
+    "is_priority": true,
+    "risk_score": 0.86,
+    "forecasted_peak_time": "2025-09-03T18:00:00Z"
+  },
+  "angle_meta": {
+    "desired_heading_deg": 134.5,
+    "formation_yaw_offset_deg": 12.0,
+    "bank_deg": 5.0,
+    "angle_of_attack_deg": 2.0,
+    "alignment_mode": "crosswind",
+    "vertical_profile": [
+      725,
+      728,
+      731,
+      734
+    ]
+  },
+  "metadata": {
+    "license": "CC0",
+    "version": "1.2.0",
+    "simulation": true,
+    "disclaimer": "Conceptual research example only; not for operational use."
+  }
+}
